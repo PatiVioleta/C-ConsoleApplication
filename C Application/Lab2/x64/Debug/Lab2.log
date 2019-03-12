@@ -1,0 +1,10 @@
+﻿x64\Debug\Domain.obj : warning LNK4042: object specified more than once; extras ignored
+Service.obj : error LNK2019: unresolved external symbol participant_create referenced in function actualizare_participant
+Repo.obj : error LNK2001: unresolved external symbol participant_create
+Validator.obj : error LNK2001: unresolved external symbol participant_create
+main.obj : error LNK2019: unresolved external symbol testGetter referenced in function allTeste
+main.obj : error LNK2019: unresolved external symbol testSetter referenced in function allTeste
+Repo.obj : error LNK2019: unresolved external symbol participant_get_nume referenced in function actualizare
+Repo.obj : error LNK2019: unresolved external symbol participant_get_prenume referenced in function actualizare
+Repo.obj : error LNK2019: unresolved external symbol participant_set_scor referenced in function actualizare
+C:\Users\PATI\Source\Repos\Lab2-4\x64\Debug\Lab2.exe : fatal error LNK1120: 6 unresolved externals

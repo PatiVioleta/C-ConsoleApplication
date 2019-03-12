@@ -1,0 +1,17 @@
+﻿  Repo.c
+c:\users\pati\source\repos\lab2\lab2\repo.c(30): warning C4101: 'i': unreferenced local variable
+c:\users\pati\source\repos\lab2\lab2\repo.c(100): warning C4101: 'prenume': unreferenced local variable
+c:\users\pati\source\repos\lab2\lab2\repo.c(100): warning C4101: 'nume': unreferenced local variable
+c:\users\pati\source\repos\lab2\lab2\repo.c(127): warning C4101: 'prenume': unreferenced local variable
+c:\users\pati\source\repos\lab2\lab2\repo.c(127): warning C4101: 'nume': unreferenced local variable
+c:\users\pati\source\repos\lab2\lab2\repo.c(154): warning C4101: 'prenume': unreferenced local variable
+c:\users\pati\source\repos\lab2\lab2\repo.c(154): warning C4101: 'nume': unreferenced local variable
+c:\users\pati\source\repos\lab2\lab2\repo.c(181): warning C4101: 'prenume': unreferenced local variable
+c:\users\pati\source\repos\lab2\lab2\repo.c(181): warning C4101: 'nume': unreferenced local variable
+c:\users\pati\source\repos\lab2\lab2\repo.c(207): warning C4013: 'adauga_participant' undefined; assuming extern returning int
+c:\users\pati\source\repos\lab2\lab2\repo.c(300): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\pati\source\repos\lab2\lab2\repo.c(118): warning C4716: 'sortare': must return a value
+c:\users\pati\source\repos\lab2\lab2\repo.c(145): warning C4716: 'sortare_nume': must return a value
+c:\users\pati\source\repos\lab2\lab2\repo.c(172): warning C4716: 'sortare_desc': must return a value
+c:\users\pati\source\repos\lab2\lab2\repo.c(199): warning C4716: 'sortare_nume_desc': must return a value
+  Lab2.vcxproj -> C:\Users\PATI\Source\Repos\Lab2\Debug\Lab2.exe

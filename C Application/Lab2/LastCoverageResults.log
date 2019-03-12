@@ -1,0 +1,28 @@
+[2018-03-29 08:05:06] [info] Start Program:
+Path:"C:\Users\PATI\Desktop\Lab2\x64\Debug\Lab2.exe"
+Arguments:
+Working directory: "C:\Users\PATI\Desktop\Lab2\Lab2\"
+Modules: Selected: C:\Users\PATI\Desktop\Lab2\x64\Debug\Lab2.exe Excluded: 
+Sources: Selected: C:\Users\PATI\Desktop\Lab2\Lab2 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\PATI\AppData\Local\Temp\mlqnht0a.4xm 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+
+[2018-03-29 08:05:06] [info] Module: C:\Users\PATI\Desktop\Lab2\x64\Debug\Lab2.exe is selected because it matches selected pattern: C:\Users\PATI\Desktop\Lab2\x64\Debug\Lab2.exe
+[2018-03-29 08:05:06] [info] Module: C:\Windows\System32\ntdll.dll is skipped because it matches no selected patterns
+[2018-03-29 08:05:07] [info] Module: C:\Windows\System32\kernel32.dll is skipped because it matches no selected patterns
+[2018-03-29 08:05:07] [info] Module: C:\Windows\System32\KernelBase.dll is skipped because it matches no selected patterns
+[2018-03-29 08:05:07] [info] Module: C:\Windows\System32\vcruntime140d.dll is skipped because it matches no selected patterns
+[2018-03-29 08:05:07] [info] Module: C:\Windows\System32\ucrtbased.dll is skipped because it matches no selected patterns
+[2018-03-29 08:05:08] [info] Module: C:\Windows\System32\kernel.appcore.dll is skipped because it matches no selected patterns
+[2018-03-29 08:05:08] [info] Module: C:\Windows\System32\msvcrt.dll is skipped because it matches no selected patterns
+[2018-03-29 08:05:08] [info] Module: C:\Windows\System32\rpcrt4.dll is skipped because it matches no selected patterns
+[2018-03-29 08:05:08] [info] ----------------------------------------------------
+[2018-03-29 08:05:08] [info] Coverage binary generated in file: C:\Users\PATI\AppData\Local\Temp\mlqnht0a.4xm
+[2018-03-29 08:05:08] [info] ----------------------------------------------------
